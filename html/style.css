@@ -1,0 +1,26 @@
+.madhur {
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-style: dashed;
+    color: red;
+}
+
+body {
+    background-color: yellow;
+}
+
+#skill {
+    color: blue;
+}
+
+#k {
+    color: blueviolet;
+}
+
+#h {
+    color: aqua;
+}
+
+#m {
+    color: pink;
+}

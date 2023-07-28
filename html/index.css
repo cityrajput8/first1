@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url();
+    background-size: cover;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 160px;
+}
+
+ul li a{
+    text-decoration: none;
+    margin-left: 40px;
+    float: left;
+    font-size: 21px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(105, 228, 44);
+}
+
+td{
+    height: 30px;
+}
+
+h2{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 27px;
+}
+
+#td1{
+    width: 50px;
+}
+
+#td2{
+    width: 700px;
+}

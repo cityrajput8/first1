@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://directlinedev.com/media/services/service/background/background_16_WabjYvZ.wide.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+ul li{
+    list-style: none;
+    display: inline;
+}
+#home{
+    margin-left: 640px;
+}
+ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 10px;
+    color: white;
+    display: inline-block;
+}
+  svg{
+      position: relative;
+      top: 2px;
+      color: black;
+  }
+  #wm{
+      color: aqua;
+      font-size: 70px;
+      font-weight: bold;
+      text-align: center;
+      position: relative;
+      top: 150px;
+      font-variant: small-caps;
+      text-transform: capitalize;
+      font-family: cooper;
+  }
+  #lo{
+      position: relative;
+      top: 160px;
+      text-align: center;
+      font-size: 30px;
+      color: blanchedalmond;
+  }
+#mv{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-transform: capitalize;
+    font-variant: small-caps;
+    color: pink;
+    font-family: Showcard Gothic;
+}
+.btn{
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+    background-color: transparent;
+    color: white;
+    border-radius: 30px;
+    border: 2px solid aqua;
+}
+.btn:hover{
+    background-color: palevioletred;
+    transition: 3s;
+}
+ul li a:hover{
+    color: hotpink;
+    border-left: 3px solid aqua;
+}
+
+@media (max-width: 400px) {
+    
+}
